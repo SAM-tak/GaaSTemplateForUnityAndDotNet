@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:SAM-tak/GaaSTemplateForUnityAndDotNetClient.git
+[submodule "Server"]
+	path = Server
+	url = git@github.com:SAM-tak/GaaSTemplateForUnityAndDotNetServer.git
