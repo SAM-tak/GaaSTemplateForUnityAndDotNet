@@ -1,6 +1,6 @@
-[submodule "Client"]
-	path = Client
+[submodule "YourGameClient"]
+	path = YourGameClient
 	url = git@github.com:SAM-tak/GaaSTemplateForUnityAndDotNetClient.git
-[submodule "Server"]
-	path = Server
+[submodule "YourGameServer"]
+	path = YourGameServer
 	url = git@github.com:SAM-tak/GaaSTemplateForUnityAndDotNetServer.git
