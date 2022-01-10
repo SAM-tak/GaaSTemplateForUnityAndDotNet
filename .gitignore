@@ -3,6 +3,8 @@
 
 .vscode/
 
+.ionide/
+
 # Gradle cache directory
 .gradle/
 
